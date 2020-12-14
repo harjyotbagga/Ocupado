@@ -1,6 +1,8 @@
-# Meeting-Scheduler-API 🤝
+# Ocupado 🤝
 
-This is the meeting scheduler API for the "Appointy" Task. Also, this is my first attempt to learn Golang and build HTTP JSON API using it. The endpoints are according to the Documentation given. The API is made entirely using the native Go packages and no third-party packages. The DB used here is MongoDB and was connected using the official mongo-driver SDK provided by MongoDB.
+Ocupado is a meeting scheduler API. It is used to appoint and manage meetings of a person, and makes sure that there isn't any clashes in the schedule.
+
+This API was made for the "Appointy" Internship Task. Also, this is my first attempt to learn Golang and build HTTP JSON API using it. The endpoints are according to the Documentation given. The API is made entirely using the native Go packages and no third-party packages. The DB used here is MongoDB and was connected using the official mongo-driver SDK provided by MongoDB.
 
 # Project Structure
 
